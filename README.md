@@ -1,5 +1,5 @@
 # Megathon -2023
-
+![](https://github.com/kolubex/Megathon/blob/master/asset/BannerImage.png)
 # Medical Question Answering with LangChain and Hugging Face
 
 This repository contains code and resources for a medical question-answering system using LangChain and Hugging Face's Transformers library. The system is designed to answer medical questions based on the MASHQA dataset and demonstrates the integration of advanced NLP models for medical domain-specific tasks.
